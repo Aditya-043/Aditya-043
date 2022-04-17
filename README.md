@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya_kumar
 - 👀 I’m interested in playing Chess and Cricket..
-- 🌱 I’m currently learning Java and DBMS
+- 🌱 I’m currently learning C++ and DBMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...insta id : its_me_aditya043
 
